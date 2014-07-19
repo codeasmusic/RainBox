@@ -1,0 +1,5 @@
+#Tue Apr 01 19:53:39 HKT 2014
+eclipse.preferences.version=1
+spket.taskCaseSensitive=enabled
+spket.taskPriorities=NORMAL,HIGH,NORMAL
+spket.taskTags=TODO,FIXME,XXX
